@@ -1,0 +1,8 @@
+H:\2025-2026\ikt\KBV-gokart\KBV-gokart\obj\Debug\KBV-gokart.csproj.AssemblyReference.cache
+H:\2025-2026\ikt\KBV-gokart\KBV-gokart\obj\Debug\KBV-gokart.csproj.CoreCompileInputs.cache
+H:\2025-2026\ikt\KBV-gokart\KBV-gokart\bin\Debug\KBV-gokart.exe.config
+H:\2025-2026\ikt\KBV-gokart\KBV-gokart\bin\Debug\KBV-gokart.exe
+H:\2025-2026\ikt\KBV-gokart\KBV-gokart\bin\Debug\KBV-gokart.pdb
+H:\2025-2026\ikt\KBV-gokart\KBV-gokart\obj\Debug\KBV-gokart.exe
+H:\2025-2026\ikt\KBV-gokart\KBV-gokart\obj\Debug\KBV-gokart.pdb
+H:\2025-2026\ikt\KBV-gokart\KBV-gokart\obj\Debug\KBV-gokart.exe.config
